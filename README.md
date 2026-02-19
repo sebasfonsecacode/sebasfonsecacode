@@ -1,29 +1,37 @@
 <h1 align="center">Hola 👋, Soy Sebastian Fonseca</h1>
 
----
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=F7AB1A&center=true&width=435&lines=Full+Stack+Developer+;React+-+Node;Java+Spring" alt="Typing SVG" /></a> 
+</h1>
 
-<h3 align="left">Desarrollador Full Stack con mentalidad de producto, especializado en ecosistemas digitales escalables.</h3>
+<p>
+  <strong>Full Stack Developer especializado en el desarrollo de soluciones digitales de alto rendimiento</strong>
+</p>
 
-> Mi enfoque va más allá de escribir código: optimizo la experiencia del usuario y la arquitectura de sistemas. Combino la robustez del Backend (**Node.js, Java Spring, Laravel**) con la agilidad del Frontend (**React, Angular, Vue**).
+> Soy un apasionado por la tecnología que disfruta genuinamente lo que hace. Amo estudiar, mantenerme al día y retarme a ser un poco mejor cada día. Me considero un profesional muy comprometido no solo con el código, sino con las personas. Mi gran meta hoy es **liderar proyectos y equipos**, usando mi experiencia para ayudar a otros a construir cosas increíbles.
 
 - 🚀 **Enfoque actual:** Construcción de aplicaciones web desde la concepción hasta el despliegue.
 - 🛠️ **Especialidad:** ReactJS, Node.js y arquitecturas sólidas con Java Spring Boot.
 - 🎨 **UI/UX:** Maquetación avanzada con Tailwind CSS y frameworks modernos.
-- 🌱 **Meta:** Transformar requerimientos complejos en soluciones técnicas que generen impacto real.
+- 🎯 **Meta profesional:** Liderazgo técnico (Tech Lead) y especialización en el ecosistema Java.
 
----
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📬 Conecta conmigo:
-<a href="https://www.linkedin.com/in/sebas-fonseca/">
-    ![Linkedin: sebas-fonseca](https://img.shields.io/badge/-Sebas--Fonseca-0077B5?style=flat-square&logo=Linkedin&logoColor=white)
-</a>
-<a href="mailto:tu-correo@ejemplo.com">
-    ![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)
-</a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/sebas-fonseca/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Sebastian Fonseca" />
+  </a>
+  <a href="mailto:sebasf.ads@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
----
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ My Tech Stack
+## 🛠️ Mi Stack Tecnológico
 
 ### ⚡ Main Focus (Most Used)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -51,15 +59,10 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-
-## 📈 My GitHub Stats
-
-<div align="center">
-  <img alt="Sebastian's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=TU_USUARIO_GITHUB&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="Sebastian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</div>
-
----
 <p align="center">
-  Aprendiz constante | Colaborador proactivo | Resolutor de problemas técnicos complejos
+  <strong>"El liderazgo técnico no se trata de tener todas las respuestas, sino de hacer las preguntas correctas para potenciar al equipo."</strong>
 </p>
+
+
+
+Last Edited on: 19/02/2026
