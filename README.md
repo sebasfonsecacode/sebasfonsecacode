@@ -11,7 +11,7 @@
 > Soy un apasionado por la tecnología que disfruta genuinamente lo que hace. Amo estudiar, mantenerme al día y retarme a ser un poco mejor cada día. Me considero un profesional muy comprometido no solo con el código, sino con las personas. Mi gran meta hoy es **liderar proyectos y equipos**, usando mi experiencia para ayudar a otros a construir cosas increíbles.
 
 - 🚀 **Enfoque actual:** Construcción de aplicaciones web desde la concepción hasta el despliegue.
-- 🛠️ **Especialidad:** ReactJS, Node.js y arquitecturas sólidas con Java Spring Boot.
+- 🛠️ **Especialidad:** ReactJS, Node.js y arquitecturas sólidas con Python y FastAPI.
 - 🎨 **UI/UX:** Maquetación avanzada con Tailwind CSS y frameworks modernos.
 - 🎯 **Meta profesional:** Liderazgo técnico (Tech Lead) y especialización en el ecosistema Java.
 
