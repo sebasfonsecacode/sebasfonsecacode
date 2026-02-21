@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Sebastian Fonseca</h1>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=F7AB1A&center=true&width=435&lines=Full+Stack+Developer+;React+-+Node;Java+Spring" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1A78FF&center=true&width=435&lines=Full+Stack+Developer;React+Angular+Vue;Node+Python" alt="Typing SVG" /></a>
 </h1>
 
 <p>
